@@ -8,5 +8,5 @@ These days I wear a number of hats in my professional and personal life. I've no
 
 # Experiments in turning around a traditional business
 
-1.  Week 1: [Getting on the same page]
+1.  Week 1: [Getting on the same page](./week1.html)
 
