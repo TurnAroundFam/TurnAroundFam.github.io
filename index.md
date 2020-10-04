@@ -2,22 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Purpose
 
-[Link to another page](./another-page.html).
+These days I wear a number of hats in my professional and personal life. I've noticed that most of the work I do has very poor documentation and references available online. This was not the case when I had a job and a career path to follow. To hold myself accountable , to my goals, and my partners, I started this blog. I write every week to reflect on how well I've done in the past week, what I should consider next week, and whether there are any major learnings I've gained.
 
-There should be whitespace between paragraphs.
+# Experiments in turning around a traditional business
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1.  Week 1: [Getting on the same page]
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
